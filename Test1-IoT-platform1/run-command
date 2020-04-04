@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # Start broker in the background and keep it run forever 
 # Log :  mqtt.log 
 
