@@ -1,0 +1,15 @@
+{
+  "name": "test2-iotfw",
+  "version": "1.0.0",
+  "description": "--- noteId: \"f5b891907a6911ea84349589e11be653\" tags: []",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.7.1",
+    "getmac": "^1.2.1"
+  }
+}
