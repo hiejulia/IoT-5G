@@ -1,3 +1,9 @@
+---
+noteId: "f0e8e4407a6d11ea9d13f388630936df"
+tags: []
+
+---
+
 # IoT-5G
 
 Telemetry for IoT in 5G
