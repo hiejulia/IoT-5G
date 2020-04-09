@@ -1,12 +1,11 @@
----
-noteId: "f0e8e4407a6d11ea9d13f388630936df"
-tags: []
-
----
-
 # IoT-5G
 
 Telemetry for IoT in 5G
+
+
+### 5G 
+We will see how 5G being cool now 
+<a href="https://imgur.com/bBhyTnS"><img src="https://i.imgur.com/bBhyTnS.jpg" title="source: imgur.com" /></a>
 
 
 ### IoT Protocol 

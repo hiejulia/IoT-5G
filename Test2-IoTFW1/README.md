@@ -1,9 +1,3 @@
----
-noteId: "1a18b7007a6e11ea8481bbb14c00b23c"
-tags: []
-
----
-
 ### Smart device 
 - Raspberry pi 3
     - ARM - 1GB SD RAM, USB 2.0 ports, on board network : 10/100 mbits/s ethernet , Bluetooth 4.1, low level peripherals, Power ratings, Power source : 5V via microusb or GPIO header 
