@@ -4,7 +4,7 @@ Telemetry for IoT in 5G
 
 
 ### 5G 
-We will see how 5G being cool now 
+
 <a href="https://imgur.com/bBhyTnS"><img src="https://i.imgur.com/bBhyTnS.jpg" title="source: imgur.com" /></a>
 
 
@@ -40,56 +40,56 @@ We will see how 5G being cool now
     - 
 
 # Architecture 
-- Explain the functionality and characteristics of the IoT architecture layers
-Explain the characteristics of IoT technologies, which include WSN (Wireless Sensor Networks), IoT cloud computing support, cloud computing, IoT R&D (Research & Development), IoT hardware technologies
-Explain the characteristics of IoT sensors types, actuator types, and RFID types
-Explain the functionality and characteristics of IoT device platforms, which include Arduino, Raspberry Pi, and BeagleBoard products
-Explain the features of Arduino product types, which include Arduino Uno R3, Yun, and Lilypad
-Explain the features of the Raspberry Pi and the Raspberry Pi 3 Model B
-Explain the features of the BeagleBoard and Beaglebone Black
-
+- WSN (Wireless Sensor Networks), IoT cloud computing support, cloud computing, IoT hardware technologies
+- IoT sensors types, actuator types, and RFID types
+- IoT device platforms, which include Arduino, Raspberry Pi
+- Arduino product types, which include Arduino Uno R3, Yun, and Lilypad
+- Raspberry Pi and the Raspberry Pi 3 Model B
 
 - Explain the functionality and characteristics of IoT devices, IoT network, and wearable IoT devices
-Explain the characteristics and requirements of ISM (Industrial, Scientific and Medical) bands
-Explain the functionality and characteristics of the IoT wireless network architecture
-Explain the functionality and characteristics of WLAN (Wireless Local Area Network) technology and types
-Explain the functionality and characteristics of WPAN (Wireless Personal Area Network) technology and types, which include Bluetooth, ZigBee, and 6LoWPAN
-Explain the functionality and characteristics of IEEE 802.15.4 device types
-Explain the functionality and characteristics of LPWAN (Low-Power Wide Area Network) technology and types, which include LoRa, UNB (Ultra Narrow Band), Sigfox, and NB-IoT
-Explain the features of LPWAN communication networks, which are designed for long range communications at low power and low bit rates
-Recognize the advantages of IoT and 5G mobile communication networks
+- WPAN (Wireless Personal Area Network) technology and types, which include Bluetooth, ZigBee, and 6LoWPAN
+- IEEE 802.15.4 device types
+- LPWAN (Low-Power Wide Area Network) technology and types, which include LoRa, UNB (Ultra Narrow Band), Sigfox, and NB-IoT
+- LPWAN communication networks, which are designed for long range communications at low power and low bit rates
+- advantages of IoT and 5G mobile communication networks
 Explain the characteristics of mMTC (massive MTC) based on key requirements, area coverage, frequency, services, connection density, and applications
 
-- 
-Explain the characteristics and types of Wi-Fi technology
-Explain the characteristics of the WLAN (Wireless Local Area Network) market
-Explain the functionality and characteristics of Wi-Fi transmission modes, which include the Infrastructure mode and the Ad-Hoc mode
-Explain the functionality and characteristics of Wi-Fi Infrastructure mode and the role of a wireless AP (Access Point), BSS (Basic Service Set), and an ESS (Extended Service Set)
-Recognize the operation process of Wi-Fi and role of DCF (Distributed Coordination Function) and CSMA/CA (Carrier-Sense Multiple Access with Collision Avoidance)
-Explain the characteristics of Wi-Fi standards, which include the IEEE 802.11a, 11b, 11e, 11g, 11n, 11p, 11ac, 11ad, 11ah specifications
-Explain the characteristics of Wi-Fi PHY (Physical Layer) modulation schemes
-Recognize the operation process of Wi-Fi operations and IFS (Inter-Frame Space) types and how IFSs are used in priority access control
-Recognize the advantages of Wi-Fi Dual Band and Wi-Fi Direct
-Explain the functionality and characteristics of Bluetooth technology and types
-Discover the differences in Bluetooth standards and feature evolution
-Explain the characteristics of Bluetooth piconet and types of operation, which include Classic Bluetooth and BLE (Bluetooth Low Energy)
-Recognize the advantages of BLE (Bluetooth Low Energy) and the channel specifications and advertising and connection events
-Explain the characteristics of the Bluetooth evolution (i.e., specifications 1.1 to 5) including EDR (Enhanced Data Rate), HS (High Speed), BLE (Bluetooth Low Energy), and Beacon technology
-
-- Discover the relation between IoT and mobile cloud technology
-Discover the differences in MCC (Mobile Cloud Computing) and Edge Computing, which include Fog computing, MEC (Mobile Edge Computing), and Cloudlet technology
+- WLAN (Wireless Local Area Network) market
+- Wi-Fi transmission modes, which include the Infrastructure mode and the Ad-Hoc mode
+- Wi-Fi Infrastructure mode and the role of a wireless AP (Access Point), BSS (Basic Service Set), and an ESS (Extended Service Set)
+- operation process of Wi-Fi and role of DCF (Distributed Coordination Function) and CSMA/CA (Carrier-Sense Multiple Access with Collision Avoidance)
+- Wi-Fi standards, which include the IEEE 802.11a, 11b, 11e, 11g, 11n, 11p, 11ac, 11ad, 11ah specifications
+- Wi-Fi PHY (Physical Layer) modulation schemes
+- operation process of Wi-Fi operations and IFS (Inter-Frame Space) types and how IFSs are used in priority access control
+- advantages of Wi-Fi Dual Band and Wi-Fi Direct
 
 
-- Recognize the advantages of Bluetooth technology through project experimentation
-Recognize the operation process of Bluetooth in Android and iPhone smartphones
-Recognize how to scan a Bluetooth packet and identify different Bluetooth versions being used on a smartphone
-Recognize the advantages of Wi-Fi technology through project experimentation
-Recognize the operation process of Wi-Fi in Android and iPhone smartphones
-Recognize how to use a Wi-Fi network analyzer, LAN scan, send ping to a gateway, Wi-Fi signal scan, and use a Wi-Fi channel graph
-Recognize the advantages of Cloud technology through project experimentation
-Recognize the operation process of the AWS (Amazon Web Service) EC2 (Elastic Compute Cloud) system
-Recognize how to setup an EC2 Virtual Computer in AWS
-Recognize how to use various options and compute a process on EC2 and use S3
+- Bluetooth piconet and types of operation, which include Classic Bluetooth and BLE (Bluetooth Low Energy)
+- advantages of BLE (Bluetooth Low Energy) and the channel specifications and advertising and connection events
+- Bluetooth evolution (i.e., specifications 1.1 to 5) including EDR (Enhanced Data Rate), HS (High Speed), BLE (Bluetooth Low Energy), and Beacon technology
+
+- MCC (Mobile Cloud Computing) and Edge Computing, which include Fog computing, MEC (Mobile Edge Computing), and Cloudlet technology
+
+
+- - advantages of Bluetooth technology through project experimentation
+- operation process of Bluetooth in Android and iPhone smartphones
+- Scan a Bluetooth packet and identify different Bluetooth versions being used on a smartphone
+- Wi-Fi technology through project experimentation
+- operation process of Wi-Fi in Android and iPhone smartphones
+- Recognize how to use a Wi-Fi network analyzer, LAN scan, send ping to a gateway, Wi-Fi signal scan, and use a Wi-Fi channel graph
+- operation process of the AWS (Amazon Web Service) EC2 (Elastic Compute Cloud) system
+
+
+
+### Hardware
+- Extracting firmware from the real-world IoT device.
+- Performing live debugging to bypass security protections and restrictions
+
+- Writing new firmware to the device
+- extend device functions
+
+
+
 
 
 
@@ -118,6 +118,7 @@ pi-base -> Starting point of code running on Raspberry Pi 3
 pi -> Final code running on Raspberry Pi 3
 start.sh -> Script to start Broker, API Engine & Web app as deamos
 <a href="https://imgur.com/x3eprZM"><img src="https://i.imgur.com/x3eprZM.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/GpwTa8q"><img src="https://i.imgur.com/GpwTa8q.png" title="source: imgur.com" /></a>
 
 
 
